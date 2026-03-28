@@ -24,3 +24,9 @@ As a core member of Team 4sparks, my primary responsibilities included:
 - Rafa Abdallah
 - Miada Abdalmonim
 - Asmaa Tagelsir
+
+## Dataset Access
+The multimodal media files (640 images, 55 videos, and 695 voice recordings) are hosted on Google Drive for high-resolution integrity.
+
+- **Dataset Root Folder:** [https://drive.google.com/drive/folders/1mUdQkCwvXFWGAGGorVPlQF6IxEwe1E8f]
+- **Metadata Inventory:** The `metadata.csv` file in this repository contains the synchronized captions and file IDs.
